@@ -15,11 +15,6 @@ Fivem Server install
 MTA Server install
 Garry's Mod Server install
 ## Install
-## Centos
-yum install git
-## Ubuntu
-apt-get install git
-##
 git clone https://github.com/M3M4Ti/Special-Script.git specialscripts
 cd specialscripts
 chmod +x Special Specialen Specialgame Specialgamen
