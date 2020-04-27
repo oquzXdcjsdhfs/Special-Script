@@ -1,7 +1,7 @@
 # Special-Script
 # Operating systems that run smoothly
-*Ubuntu 14.04-16.04-18.04
-*Centos 6-7-8
+Ubuntu 14.04-16.04-18.04
+Centos 6-7-8
 ## Features
 Teamspeak install
 Sinusbot install
@@ -22,4 +22,3 @@ chmod +x Special Specialen Specialgame Specialgamen
 [![Join Gitter Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SpecialScript/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link) to discuss or ask anything!
 Version : 8.4
 Website : https://specialscript.com
-
