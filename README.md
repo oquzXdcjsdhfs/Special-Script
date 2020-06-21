@@ -24,5 +24,5 @@
 3.  chmod +x Special Specialen Specialgame Specialgamen
 ## Finished Install
 [![Join Gitter Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SpecialScript/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link) to discuss or ask anything!
-- Version : 8.4
+- Version : 8.7
 - Website : https://specialscript.com
