@@ -1,5 +1,5 @@
 ## Support OS
-* Ubuntu 14.04-16.04-18.04
+* Ubuntu 14.04-16.04-18.04-20.04
 * Centos 6-7-8
 ## Features
 * Teamspeak install
